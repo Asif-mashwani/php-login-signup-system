@@ -7,7 +7,7 @@ A secure authentication system built with PHP and MySQL featuring user registrat
 - Secure login using **sessions**
 - Protected dashboard page
 - Logout system
-- MySQL database integration
+- MySQL database integration.
 
 ## 🛠 Tech Stack
 - PHP
